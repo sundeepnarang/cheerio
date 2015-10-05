@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "css-select": "~1.1.0",
-    "entities": "~1.1.1",
+    "entities": "https://github.com/sundeepnarang/entities/tarball/master",
     "htmlparser2": "~3.8.1",
     "dom-serializer": "~0.1.0",
     "lodash": "^3.2.0"
