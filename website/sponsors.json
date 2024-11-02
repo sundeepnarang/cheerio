@@ -36,32 +36,10 @@
   ],
   "sponsor": [
     {
-      "createdAt": "2021-07-06T15:45:05.151Z",
-      "name": "CryptoCasinos",
-      "url": "https://cryptocasinos.com/",
-      "image": "https://images.opencollective.com/cryptocasinos/99b168e/logo.png",
-      "type": "ORGANIZATION",
-      "monthlyDonation": 0,
-      "totalDonations": 0,
-      "source": "opencollective",
-      "tier": "sponsor"
-    },
-    {
       "createdAt": "2021-07-11T11:04:52.058Z",
       "name": "Casinoonlineaams.com",
       "url": "https://www.casinoonlineaams.com",
       "image": "https://images.opencollective.com/casinoonlineaamscom/c59b0fd/logo.png",
-      "type": "ORGANIZATION",
-      "monthlyDonation": 0,
-      "totalDonations": 0,
-      "source": "opencollective",
-      "tier": "sponsor"
-    },
-    {
-      "createdAt": "2022-04-21T11:02:44.475Z",
-      "name": "Casino utan svensk licens",
-      "url": "https://casinoutansvensklicens.co/",
-      "image": "https://images.opencollective.com/casino-utan-svensk-licens3/f7e9357/logo.png",
       "type": "ORGANIZATION",
       "monthlyDonation": 0,
       "totalDonations": 0,
@@ -80,54 +58,10 @@
       "tier": "sponsor"
     },
     {
-      "createdAt": "2022-11-10T14:53:38.177Z",
-      "name": "Casinosicuri.info",
-      "url": "https://casinosicuri.info/",
-      "image": "https://images.opencollective.com/casinosicuri-info/5dc691c/avatar.png",
-      "type": "INDIVIDUAL",
-      "monthlyDonation": 0,
-      "totalDonations": 0,
-      "source": "opencollective",
-      "tier": "sponsor"
-    },
-    {
       "createdAt": "2023-06-15T13:34:53.677Z",
-      "name": "Игровые автоматы",
-      "url": "https://slotoking.ua/games/",
+      "name": "Ігрові автомати",
+      "url": "https://slotoking.ua/games/all-slots/",
       "image": "https://images.opencollective.com/igrovye-avtomaty-ua/96bfde3/logo.png",
-      "type": "ORGANIZATION",
-      "monthlyDonation": 0,
-      "totalDonations": 0,
-      "source": "opencollective",
-      "tier": "sponsor"
-    },
-    {
-      "createdAt": "2023-12-05T16:44:08.370Z",
-      "name": "OnlineCasinosSpelen",
-      "url": "https://onlinecasinosspelen.com",
-      "image": "https://images.opencollective.com/onlinecasinosspelen/4ce3830/logo.png",
-      "type": "ORGANIZATION",
-      "monthlyDonation": 0,
-      "totalDonations": 0,
-      "source": "opencollective",
-      "tier": "sponsor"
-    },
-    {
-      "createdAt": "2023-12-07T14:06:03.013Z",
-      "name": "CasinoZonderRegistratie.net",
-      "url": "https://casinoZonderregistratie.net/",
-      "image": "https://images.opencollective.com/czrnet/24e6252/logo.png",
-      "type": "ORGANIZATION",
-      "monthlyDonation": 0,
-      "totalDonations": 0,
-      "source": "opencollective",
-      "tier": "sponsor"
-    },
-    {
-      "createdAt": "2023-12-07T14:07:39.203Z",
-      "name": "Nieuwe-Casinos.net",
-      "url": "https://Nieuwe-Casinos.net",
-      "image": "https://images.opencollective.com/nieuwecasinos/ee150d6/logo.png",
       "type": "ORGANIZATION",
       "monthlyDonation": 0,
       "totalDonations": 0,
@@ -151,6 +85,17 @@
       "url": "https://puter.com/",
       "image": "https://images.opencollective.com/puter/f8643c4/avatar.png",
       "type": "INDIVIDUAL",
+      "monthlyDonation": 0,
+      "totalDonations": 0,
+      "source": "opencollective",
+      "tier": "sponsor"
+    },
+    {
+      "createdAt": "2024-03-12T20:12:08.220Z",
+      "name": "No Deposit Bonus",
+      "url": "https://www.nodepositcasinobonus.org/",
+      "image": "https://images.opencollective.com/no-deposit-bonus/912e261/logo.png",
+      "type": "ORGANIZATION",
       "monthlyDonation": 0,
       "totalDonations": 0,
       "source": "opencollective",
